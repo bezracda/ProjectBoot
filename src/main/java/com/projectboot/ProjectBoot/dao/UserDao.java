@@ -1,4 +1,4 @@
-package com.projectboot.ProjectBoot.UserDao;
+package com.projectboot.ProjectBoot.dao;
 
 import com.projectboot.ProjectBoot.model.User;
 import org.springframework.stereotype.Repository;

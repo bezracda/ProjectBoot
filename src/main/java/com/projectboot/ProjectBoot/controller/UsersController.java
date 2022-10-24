@@ -1,6 +1,6 @@
 package com.projectboot.ProjectBoot.controller;
 
-import com.projectboot.ProjectBoot.Servise.UserService;
+import com.projectboot.ProjectBoot.service.UserService;
 import com.projectboot.ProjectBoot.model.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

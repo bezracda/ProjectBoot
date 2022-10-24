@@ -1,6 +1,6 @@
-package com.projectboot.ProjectBoot.Servise;
+package com.projectboot.ProjectBoot.service;
 
-import com.projectboot.ProjectBoot.UserDao.UserDao;
+import com.projectboot.ProjectBoot.dao.UserDao;
 import com.projectboot.ProjectBoot.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

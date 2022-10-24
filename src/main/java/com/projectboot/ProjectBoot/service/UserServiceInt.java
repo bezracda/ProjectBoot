@@ -1,4 +1,4 @@
-package com.projectboot.ProjectBoot.Servise;
+package com.projectboot.ProjectBoot.service;
 
 
 import com.projectboot.ProjectBoot.model.User;
